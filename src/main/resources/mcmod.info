@@ -1,0 +1,17 @@
+[
+{
+  "modid": "discord",
+  "name": "Discord2MC",
+  "description": "Use Discord in Minecraft. Press B (default) to open GUI",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ScarabCoder"],
+  "credits": "Almighty Alpaca, for helping me build the mod. Also DV8FromTheWorld for his awesome API and support, and everyone in his Discord channel for helping me.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+  
+}
+]
